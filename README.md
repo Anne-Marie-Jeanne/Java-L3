@@ -1,3 +1,3 @@
 "# Java-L3" 
 
-Le projett Java est en binome avec Marème Dickel DIA
+Le projet Java E-shop est réalisé en binôme avec Marème Dickel DIA
